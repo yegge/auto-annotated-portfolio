@@ -50,6 +50,16 @@
             },
             {
                 "type": "Link",
+                "label": "Vault",
+                "altText": "Vault",
+                "url": "/vault",
+                "showIcon": true,
+                "icon": "play",
+                "iconPosition": "left",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
@@ -62,16 +72,6 @@
                 "showIcon": true,
                 "icon": "apple",
                 "iconPosition": "left"
-            },
-            {
-                "type": "Link",
-                "label": "Vault",
-                "altText": "Vault",
-                "url": "/vault",
-                "showIcon": true,
-                "icon": "play",
-                "iconPosition": "left",
-                "elementId": ""
             }
         ],
         "contacts": {
