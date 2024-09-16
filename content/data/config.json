@@ -56,7 +56,7 @@
             },
             {
                 "type": "Link",
-                "label": "GitHub",
+                "label": "",
                 "url": "https://github.com/netlify-templates",
                 "altText": "Netlify templates"
             }
