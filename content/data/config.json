@@ -74,7 +74,7 @@
         "copyrightText": "<div style=\"text-align: center\">[Apple Music](https://music.apple.com/us/artist/angershade/1006923915)  [Spotify](https://open.spotify.com/artist/1W8j2MafL51NDOYsPTpIZ3?si=-2gntgO-TdaR2mSbO7qpdw\\&nd=1\\&dlsi=a48c15c1ccba4e92)  [Youtube Music](https://music.youtube.com/channel/UC2AA_y8YCK0GEifQid0aybA?feature=share)  [Tidal](https://tidal.com/artist/6944856)  [Amazon Music](https://www.amazon.com/music/player/artists/B0105LBNHM/angershade)  © 2024 Angershade LLC. ℗ [Yegge](brianyegge.com)</div>\n\n<div style=\"text-align: center\">[Terms of Service](https://angershade.com/tos)</div>\n\n",
         "styles": {
             "self": {
-                "width": "wide",
+                "width": "full",
                 "padding": [
                     "pt-16",
                     "pb-16",
