@@ -82,6 +82,16 @@
                 "icon": "playCircle",
                 "iconPosition": "left",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://music.youtube.com/channel/UC2AA_y8YCK0GEifQid0aybA?feature=share",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
