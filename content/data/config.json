@@ -60,7 +60,8 @@
                 "url": "https://music.apple.com/us/artist/angershade/1006923915",
                 "altText": "Apple Music",
                 "showIcon": true,
-                "icon": "apple"
+                "icon": "apple",
+                "iconPosition": "left"
             }
         ],
         "contacts": {
