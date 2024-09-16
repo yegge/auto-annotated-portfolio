@@ -71,7 +71,7 @@
             "address": "",
             "addressAltText": ""
         },
-        "copyrightText": "<div style=\"text-align: center\">© 2024 Angershade LLC. ℗ [Yegge](brianyegge.com)[Terms of Service](https://angershade.com/tos)</div>\n\n",
+        "copyrightText": "<div style=\"text-align: center\">© 2024 Angershade LLC. ℗ [Yegge](brianyegge.com)\n\n[Terms of Service](https://angershade.com/tos)</div>\n",
         "styles": {
             "self": {
                 "width": "wide",
