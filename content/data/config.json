@@ -69,7 +69,7 @@
                 "altText": "Vault",
                 "url": "/vault",
                 "showIcon": false,
-                "icon": "arrowRight",
+                "icon": "play",
                 "iconPosition": "right",
                 "elementId": ""
             }
