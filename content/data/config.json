@@ -65,7 +65,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Vault",
                 "altText": "",
                 "url": "/vault",
                 "showIcon": false,
