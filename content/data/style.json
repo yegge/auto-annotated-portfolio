@@ -56,7 +56,7 @@
     "buttonPrimary": {
         "weight": "normal",
         "case": "uppercase",
-        "letterSpacing": "normal",
+        "letterSpacing": "tight",
         "horizontalPadding": 20,
         "verticalPadding": 15
     },
