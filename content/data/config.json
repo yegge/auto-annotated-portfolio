@@ -58,7 +58,7 @@
                 "type": "Link",
                 "label": "Music",
                 "url": "https://music.apple.com/us/artist/angershade/1006923915",
-                "altText": "Netlify templates",
+                "altText": "Apple Music",
                 "showIcon": true,
                 "icon": "apple"
             }
