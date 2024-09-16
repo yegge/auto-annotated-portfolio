@@ -68,7 +68,7 @@
                 "label": "Vault",
                 "altText": "Vault",
                 "url": "/vault",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "play",
                 "iconPosition": "left",
                 "elementId": ""
