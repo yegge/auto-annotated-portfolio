@@ -45,7 +45,7 @@ bottomSections:
   - type: ContactSection
     backgroundSize: full
     title: ''
-    colors: colors-e
+    colors: colors-f
     styles:
       self:
         height: auto
