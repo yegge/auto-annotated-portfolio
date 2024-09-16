@@ -8,5 +8,6 @@
         "altText": "Brian Yegge",
         "caption": "",
         "elementId": "profile_image"
-    }
+    },
+    "role": "admin"
 }
