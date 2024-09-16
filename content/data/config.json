@@ -80,7 +80,7 @@
                 "url": "https://open.spotify.com/artist/1W8j2MafL51NDOYsPTpIZ3?si=-2gntgO-TdaR2mSbO7qpdw&nd=1&dlsi=a48c15c1ccba4e92",
                 "showIcon": true,
                 "icon": "playCircle",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "elementId": ""
             }
         ],
