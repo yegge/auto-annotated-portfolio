@@ -6,7 +6,7 @@
         "type": "ImageBlock",
         "url": "/images/Image 7-24-24 at 5.15 AM.jpg",
         "altText": "altText of the image",
-        "caption": "Caption of the image",
+        "caption": "",
         "elementId": "profile_image"
     }
 }
