@@ -56,7 +56,7 @@
             },
             {
                 "type": "Link",
-                "label": "",
+                "label": "Music",
                 "url": "https://music.apple.com/us/artist/angershade/1006923915",
                 "altText": "Netlify templates",
                 "showIcon": true,
