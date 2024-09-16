@@ -70,7 +70,7 @@
                 "url": "/vault",
                 "showIcon": false,
                 "icon": "play",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "elementId": ""
             }
         ],
