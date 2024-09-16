@@ -72,6 +72,16 @@
                 "showIcon": true,
                 "icon": "apple",
                 "iconPosition": "left"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://open.spotify.com/artist/1W8j2MafL51NDOYsPTpIZ3?si=-2gntgO-TdaR2mSbO7qpdw&nd=1&dlsi=a48c15c1ccba4e92",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
