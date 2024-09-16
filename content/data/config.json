@@ -52,7 +52,8 @@
                 "type": "Link",
                 "label": "About",
                 "url": "/about",
-                "altText": "bio, about"
+                "altText": "bio, about",
+                "showIcon": true
             },
             {
                 "type": "Link",
