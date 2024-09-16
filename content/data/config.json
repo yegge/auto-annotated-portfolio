@@ -52,7 +52,7 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/about",
-                "altText": ""
+                "altText": "bio, about"
             },
             {
                 "type": "Link",
