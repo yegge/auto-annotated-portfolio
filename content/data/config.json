@@ -53,7 +53,8 @@
                 "label": "About",
                 "url": "/about",
                 "altText": "bio, about",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "apple"
             },
             {
                 "type": "Link",
