@@ -83,7 +83,7 @@
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "```\n<p>© <span id=\"currentYear\"></span> Angershade, ℗ Yegge</p>\n```\n\n```\n<script>\n    document.getElementById('currentYear').textContent = new Date().getFullYear();\n</script>\n```\n\n```\n```\n\n",
         "styles": {
             "self": {
                 "width": "narrow",
