@@ -59,7 +59,8 @@
                 "label": "",
                 "url": "https://github.com/netlify-templates",
                 "altText": "Netlify templates",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "apple"
             }
         ],
         "contacts": {
