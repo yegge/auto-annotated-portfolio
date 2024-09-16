@@ -8,6 +8,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+  url: /images/NEWLOGO2024.png
 sections:
   - elementId: ''
     colors: colors-f
