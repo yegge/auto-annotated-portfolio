@@ -58,7 +58,8 @@
                 "type": "Link",
                 "label": "",
                 "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "altText": "Netlify templates",
+                "showIcon": true
             }
         ],
         "contacts": {
