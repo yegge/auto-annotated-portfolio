@@ -54,7 +54,7 @@
                 "url": "/about",
                 "altText": "bio, about",
                 "showIcon": false,
-                "icon": "apple",
+                "icon": "",
                 "iconPosition": "left"
             },
             {
