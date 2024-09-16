@@ -90,7 +90,7 @@
                 "url": "https://music.youtube.com/channel/UC2AA_y8YCK0GEifQid0aybA?feature=share",
                 "showIcon": true,
                 "icon": "youtube",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "elementId": ""
             }
         ],
